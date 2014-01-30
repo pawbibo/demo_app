@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.0.2'
+gem 'therubyracer'
 
 group :development do
   gem 'sqlite3', '1.3.8'
